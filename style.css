@@ -1,0 +1,28 @@
+body{
+    background-color: wheat;
+    background-image: url(https://static3.bigstockphoto.com/8/1/1/large1500/118121435.jpg);
+}
+
+.add{
+  margin: 10px;
+  transition-duration: 0.4s;
+  border-radius: 8px;
+  background-color: yellow;
+  margin-inline-start:15%;
+}
+.add:hover{
+    background-color: skyblue; /* Green */
+  color: white;
+}
+
+h1{
+    color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;   
+}
+
+.textt{
+    color: teal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
